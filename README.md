@@ -1,7 +1,7 @@
 # lordoftherings
-<b>This repository contains The Lord of The Rings movies and quotes JSON data.</b>
-Technologies that are used to build this API -
-•	Maven
+<h1>This repository contains The Lord of The Rings movies and quotes JSON data.</h1><br/>
+Technologies that are used to build this API -<br/>
+•	Maven<br/>
 •	Spring Boot
 •	Java Persistence API
 •	MYSQL Workbench
