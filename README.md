@@ -1,6 +1,6 @@
 # lordoftherings
 <h1>This repository contains The Lord of The Rings movies and quotes JSON data.</h1><br/>
-Technologies that are used to build this API -<br/>
+Technologies that are used to build this API -<br/></br>
 •	Maven<br/>
 •	Spring Boot<br/>
 •	Java Persistence API<br/>
@@ -9,7 +9,7 @@ Technologies that are used to build this API -<br/>
 •	Postman<br/>
 •	IntelliJ IDE<br/><br/>
 
-Follow below steps to consume this API:<br/>
+Follow below steps to consume this API:<br/></br>
 •	Install MYSQL Workbench and set up the root password.<br/>
 •	Update the password in Application. Properties file<br/>
 •	Access postman with the endpoint URLs to save the data in MYSQL database to Movie and Quote tables.<br/>
