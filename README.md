@@ -10,8 +10,8 @@ Technologies that are used to build this API -<br/></br>
 •	IntelliJ IDE<br/><br/>
 
 Follow below steps to consume this API:<br/></br>
-•	Install MYSQL Workbench and set up the root password.<br/>
-•	Update the password in Application. Properties file<br/>
+•	Install MYSQL Workbench and set up the root password. Create the schema - "lotrmovie" <br/>
+•	Update the password and in Application. Properties file<br/>
 •	Access postman with the endpoint URLs to save the data in MYSQL database to Movie and Quote tables.<br/>
 
 POST REQUEST<br/>
