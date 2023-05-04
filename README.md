@@ -2,20 +2,20 @@
 <h1>This repository contains The Lord of The Rings movies and quotes JSON data.</h1><br/>
 Technologies that are used to build this API -<br/>
 •	Maven<br/>
-•	Spring Boot
-•	Java Persistence API
-•	MYSQL Workbench
-•	Tomcat Server
-•	Postman
-•	IntelliJ IDE
+•	Spring Boot<br/>
+•	Java Persistence API<br/>
+•	MYSQL Workbench<br/>
+•	Tomcat Server<br/>
+•	Postman<br/>
+•	IntelliJ IDE<br/><br/>
 
-Follow below steps to consume this API:
-•	Install MYSQL Workbench and set up the root password.
-•	Update the password in Application. Properties file
-•	Access postman with the endpoint URLs to save the data in MYSQL database to Movie and Quote tables.
+Follow below steps to consume this API:<br/>
+•	Install MYSQL Workbench and set up the root password.<br/>
+•	Update the password in Application. Properties file<br/>
+•	Access postman with the endpoint URLs to save the data in MYSQL database to Movie and Quote tables.<br/>
 
-POST REQUEST
-http://localhost:8080/savemovie
+POST REQUEST<br/>
+http://localhost:8080/savemovie<br/>
 Sample JSON data
 {
  "movieName":"The Two Towers"
@@ -27,7 +27,7 @@ Sample JSON data
 "quote":"There is only one Lord of the Ring, only one who can bend it to his will. And he does not share power.
 }
 
-•	Once data is saved, the below endpoint URLs can be accessed from the browser.
+•	Once data is saved, the below endpoint URLs can be accessed from the browser.<br/>
 
 http://localhost:8080/movie
 http://localhost:8080/movie/1
